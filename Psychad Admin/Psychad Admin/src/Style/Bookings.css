@@ -1,0 +1,100 @@
+.cover{
+    background-color: #f3f1f1;
+    margin-left: 180px;
+    margin-right: 190px;
+    padding-bottom: 40px;
+    border-radius: 10px;
+    padding-left: 20px;
+    box-shadow: 10px;
+}
+
+.patients_name_lbl{
+    margin-top: 20px;
+    background-color: #f3f1f1;
+    padding-top: 20px;
+    padding-left: 20px;
+}
+
+.patients_name_input{
+    margin-left: 20px;
+    margin-top: 8px;
+    width: 380px;
+    height: 20px;
+}
+
+.patients_name_lbl2{
+    padding-top: 10px;
+    padding-left: 20px;
+}
+
+.Selecter{
+    margin-top: 6px;
+    margin-left: 20px;
+    width: 120px;
+    height: 20px;
+}
+
+.selectors{
+    display: flex;
+    
+}
+
+.patients_name_input2{
+    margin-left: 20px;
+    margin-top: 6px;
+    width: 100px;
+    height: 32px;
+}
+
+.Selecter2{
+    margin-top: 10px;
+    margin-left: 20px;
+    width: 385px;
+}
+
+.reason{
+    background-color: 'white';
+}
+
+.btn{
+    background-color: '#FF832B';
+    color: white;
+}
+
+      
+.Selecter3{
+    margin-top: 60px;
+    margin-left: 70px;
+    width: 385px;
+}
+
+.Date{
+    margin-left: 70px;
+    margin-top: 15px;
+}
+
+.patients_name_input3{
+    margin-left: 20px;
+    margin-top: 6px;
+    width: 300px;
+    height: 32px;
+    padding-left: 50px;
+}
+.datepicker>img{
+    width: 10px;
+    height: 9px;
+    padding: 2px;
+}
+
+
+.Selecter6{
+    margin-top: 5px;
+    margin-left: 70px;
+    width: 385px;
+}
+
+.Selecter7{
+    margin-top: 10px;
+    margin-left: 70px;
+    width: 385px;
+}

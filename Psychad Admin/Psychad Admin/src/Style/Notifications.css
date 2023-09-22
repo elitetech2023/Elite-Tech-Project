@@ -1,0 +1,30 @@
+.cover2{
+    background-color: #f3f1f1;
+    margin-left: 350px;
+    margin-right: 400px;
+    padding-bottom: 40px;
+    border-radius: 10px;
+    padding-left: 50px;
+    box-shadow: 10px;
+    align-items: center;
+    justify-content: center;
+}
+
+.inputA{
+    width: 420px;
+    height: 30px;
+    margin-top: 40px;
+    border-radius: 8px;
+    border-color: 'white';
+}
+
+.textarea{
+    margin-top: 20px;
+    border-radius: 8px;
+    border-color: 'white';
+}
+
+.createNotifications{
+    margin-left: 20px;
+    margin-bottom: 20px;
+}

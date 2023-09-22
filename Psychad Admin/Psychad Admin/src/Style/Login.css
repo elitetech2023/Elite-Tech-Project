@@ -1,0 +1,68 @@
+::-webkit-scrollbar {
+    display: none;
+  }
+
+.uj_div_purple{
+    background-color: #6A0DAD;
+    width: 300px;
+    padding-bottom: 30px;
+}
+
+.uj_div_orange{
+    background-color: #FF7733;
+    width: 300px;
+    padding-bottom: 190px;
+}
+
+.image_psychad{
+    width: 50%;
+    height: 50%;
+    margin-top: 20px;
+    margin-left: 60px;
+}
+
+.image_UJ{
+    width: 70%;
+    height: 70%;
+    margin-top: 60px;
+    margin-left: 40px;
+}
+
+.login_header{
+    color:#FF7733;
+    display: flex;
+    margin-left: 650px;
+}
+
+.Logincontainer{
+    position: relative;
+    bottom: 35em;
+}
+  
+.content_O{
+    position: relative;
+    top: 5em;
+    margin-left: 620px;
+}
+
+.inputs_text{
+    padding: 10px;
+    width: 400px;
+    border-radius: 8px;
+}
+
+.btnlogin{
+    background-color: #6A0DAD;
+    color: white;
+    padding: 10px;
+    width: 425px;
+    border-radius: 8px;
+}
+
+.forgotPassword{
+    font-weight: bold;
+    color: red;
+    margin-left: 280px;
+    margin-top: 8px;
+}
+
